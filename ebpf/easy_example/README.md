@@ -1,9 +1,8 @@
 ###EBPF usage example for java programs
 
-* Environment
+* Tools should be install.
     * bcc-tools
     * strace.ebpf
-
 * How to use
     * javac HelloWorld.java
     * HelloWorld
