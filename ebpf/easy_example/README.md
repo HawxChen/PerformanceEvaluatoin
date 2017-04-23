@@ -5,5 +5,5 @@
     * strace.ebpf
 * How to use
     * javac HelloWorld.java
-    * HelloWorld
+    * HelloWorld.class should be generated.
     * ./strace.ebf -f -o output.log java HelloWorld
